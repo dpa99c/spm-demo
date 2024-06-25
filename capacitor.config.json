@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.app",
+  "appName": "spm-demo",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
